@@ -12,6 +12,9 @@
             if(isset($_GET['VariablePasséeDansGet'])) {
                 $VariablePasséeDansGet = $_GET['VariablePasséeDansGet'];
             }
+            while(true) {
+                echo "slt";
+            }
         }
     ?>
 </body>
