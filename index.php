@@ -1,1 +1,1 @@
-<?pgp huiezayhuioeyhirguygfejhgfdsbhfsdkjfghjsdbfjkgfhvbsdfshdfhjsgdhgfjsvbhkbxwdhwvsdghkfvdjsgdffffffffffffffhdgjsdhgfhsgjkhgyfqggeuyeghjbshjsgdhvjhghjfkugvfhjvfgfghfhjbv?>
+<?php if (isset($var)) {echo $var;}if (!isset($something)) print "aled" if $attack = $defend display $this?>
