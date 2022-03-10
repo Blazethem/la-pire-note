@@ -15,6 +15,8 @@
     while(true) {
                 echo "slt";
         echo "blep";
+        var $var = "var"
+    uiazhuiayzoiuhekjlamjhjoiqzdhmlazejhozehlkehruilzqerhzkjlarhzaoieri
                         }
                             }
             ?>
